@@ -1,6 +1,6 @@
 let amigos = [];
 
-
+//agregar amigos//
 function agregarAmigo() {
   let nombreAmigo = document.getElementById("amigo").value;
 
@@ -27,7 +27,7 @@ function mostrarListaAmigo() {
   }
 }
 
-
+//sorteo amigo//
 function sortearAmigo() {
   let cantidadAmigos = amigos.length;
   if (cantidadAmigos === 0) {
