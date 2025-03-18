@@ -1,10 +1,10 @@
 :root {
     --color-primary: hsl(168, 98%, 64%);
-    --color-secondary: #FFF9EB;
+    --color-secondary: #b6e498;
     --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
-    --color-button-hover: #e55720;
-    --color-text: #444444;
+    --color-button: hsl(237, 99%, 58%);
+    --color-button-hover: #4f8dde;
+    --color-text: #020d06;
     --color-white: #FFFFFF;
 }
 
